@@ -25,6 +25,7 @@ namespace William_Montesdeoca___Math_Quiz
         private void Form1_Load(object sender, EventArgs e)
         {
             // Pre set the values before the click of the start button
+            fecha.Text = DateTime.Now.ToShortDateString();
             timeLabel.Text = "30 seconds";
             timer1.Enabled = true;
             timer1.Stop();

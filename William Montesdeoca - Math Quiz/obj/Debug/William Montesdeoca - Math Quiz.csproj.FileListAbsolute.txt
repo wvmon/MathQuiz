@@ -34,3 +34,12 @@ C:\Users\William Montesdeoca\Downloads\William Montesdeoca - Math Quiz-20170426T
 C:\Users\William Montesdeoca\Downloads\William Montesdeoca - Math Quiz-20170426T065832Z-001\William Montesdeoca - Math Quiz\William Montesdeoca - Math Quiz\obj\Debug\William Montesdeoca - Math Quiz.csproj.GenerateResource.Cache
 C:\Users\William Montesdeoca\Downloads\William Montesdeoca - Math Quiz-20170426T065832Z-001\William Montesdeoca - Math Quiz\William Montesdeoca - Math Quiz\obj\Debug\William Montesdeoca - Math Quiz.exe
 C:\Users\William Montesdeoca\Downloads\William Montesdeoca - Math Quiz-20170426T065832Z-001\William Montesdeoca - Math Quiz\William Montesdeoca - Math Quiz\obj\Debug\William Montesdeoca - Math Quiz.pdb
+C:\Users\William Montesdeoca\Documents\CIT-301c\William Montesdeoca - Math Quiz\William Montesdeoca - Math Quiz\bin\Debug\William Montesdeoca - Math Quiz.exe.config
+C:\Users\William Montesdeoca\Documents\CIT-301c\William Montesdeoca - Math Quiz\William Montesdeoca - Math Quiz\bin\Debug\William Montesdeoca - Math Quiz.exe
+C:\Users\William Montesdeoca\Documents\CIT-301c\William Montesdeoca - Math Quiz\William Montesdeoca - Math Quiz\bin\Debug\William Montesdeoca - Math Quiz.pdb
+C:\Users\William Montesdeoca\Documents\CIT-301c\William Montesdeoca - Math Quiz\William Montesdeoca - Math Quiz\obj\Debug\William Montesdeoca - Math Quiz.csprojResolveAssemblyReference.cache
+C:\Users\William Montesdeoca\Documents\CIT-301c\William Montesdeoca - Math Quiz\William Montesdeoca - Math Quiz\obj\Debug\William_Montesdeoca___Math_Quiz.Form1.resources
+C:\Users\William Montesdeoca\Documents\CIT-301c\William Montesdeoca - Math Quiz\William Montesdeoca - Math Quiz\obj\Debug\William_Montesdeoca___Math_Quiz.Properties.Resources.resources
+C:\Users\William Montesdeoca\Documents\CIT-301c\William Montesdeoca - Math Quiz\William Montesdeoca - Math Quiz\obj\Debug\William Montesdeoca - Math Quiz.csproj.GenerateResource.Cache
+C:\Users\William Montesdeoca\Documents\CIT-301c\William Montesdeoca - Math Quiz\William Montesdeoca - Math Quiz\obj\Debug\William Montesdeoca - Math Quiz.exe
+C:\Users\William Montesdeoca\Documents\CIT-301c\William Montesdeoca - Math Quiz\William Montesdeoca - Math Quiz\obj\Debug\William Montesdeoca - Math Quiz.pdb
